@@ -17,14 +17,17 @@ DHCP, and DNS.
 
 ## What I Built
 - Promoted Windows Server to Domain Controller
-- Created Organizational Units (OUs) for departments
+- Created Organizational Units for departments
 - Added user accounts and assigned them to OUs
 - Configured Group Policy to enforce password policies
 - Set up DHCP scope to automatically assign IPs to clients
 - Joined Windows 10 VM to the domain
 
 ## Screenshots
-[you'll add these — see step 5]
+<img width="753" height="528" alt="ad-users" src="https://github.com/user-attachments/assets/8d1453e4-315a-4b7e-873b-6deb7652fc69" />
+<img width="799" height="623" alt="dhcp-scope" src="https://github.com/user-attachments/assets/02d1b64d-54b6-413d-8038-90d477257943" />
+<img width="896" height="622" alt="domain-joined" src="https://github.com/user-attachments/assets/5e888385-3e8d-473b-bc13-a00300c3152c" />
+<img width="1022" height="732" alt="group-policy" src="https://github.com/user-attachments/assets/ac1dafaa-7e92-4b69-b9bc-1e1d5c8b371c" />
 
 ## What I Learned
 - How domain authentication works vs local accounts
