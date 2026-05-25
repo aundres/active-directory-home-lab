@@ -13,9 +13,9 @@ DHCP, and DNS.
 - Active Directory Domain Services (AD DS)
 
 ## Lab Diagram
-- **Domain Controller:** Windows Server 2022 — hosts AD DS, DHCP, DNS
-- **Client Machine:** Windows 10 Pro — joined to domain
-- **Network:** Both VMs on an internal VirtualBox NAT network
+- Domain Controller: Windows Server 2022 hosts AD DS, DHCP, DNS
+- Client Machine: Windows 10 Pro joined to domain
+- Network: Both VMs on an internal VirtualBox NAT network
 
 ## What I Built
 - Promoted Windows Server to Domain Controller
